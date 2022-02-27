@@ -8,19 +8,21 @@
 
 🚨 Install Instructions (VS Codium - https://vscodium.com/)
 
-1. Add **ghostbusters-theme** folder to:
+1. Download zip.
+2. Add **vscode-ghostbusters-main** folder to:
     * **~/.vscode-oss/extensions/** (Linux 🐧 / Mac 🍏)
     * **%USERPROFILE%\.vscode-oss\extensions** (Windows 🪟)
-2. Restart VS Codium.
-3. File -> Preferences -> Color Theme -> Ghostbusters
+3. Restart VS Codium.
+4. File -> Preferences -> Color Theme -> Ghostbusters
 
 🚨 Install Instructions (VS Code - https://code.visualstudio.com/)
 
-1. Add **ghostbusters-theme** folder to:
+1. Download zip.
+2. Add **vscode-ghostbusters-main** folder to:
     * **~/.vscode/extensions/** (Linux 🐧 / Mac 🍏)
     * **%USERPROFILE%\.vscode\extensions** (Windows 🪟)
-2. Restart VS Code.
-3. File -> Preferences -> Color Theme -> Ghostbusters
+3. Restart VS Code.
+4. File -> Preferences -> Color Theme -> Ghostbusters
 
 ## Screenshot Gallery
 
