@@ -8,7 +8,7 @@
 
 🚨 Install Instructions (VS Codium - https://vscodium.com/)
 
-1. Download zip.
+1. Download as zip (under the code button) or clone.
 2. Add **vscode-ghostbusters-main** folder to:
     * **~/.vscode-oss/extensions/** (Linux 🐧 / Mac 🍏)
     * **%USERPROFILE%\.vscode-oss\extensions** (Windows 🪟)
@@ -17,7 +17,7 @@
 
 🚨 Install Instructions (VS Code - https://code.visualstudio.com/)
 
-1. Download zip.
+1. Download as zip (under the code button) or clone.
 2. Add **vscode-ghostbusters-main** folder to:
     * **~/.vscode/extensions/** (Linux 🐧 / Mac 🍏)
     * **%USERPROFILE%\.vscode\extensions** (Windows 🪟)
