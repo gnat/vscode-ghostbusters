@@ -8,13 +8,13 @@
 
 🚨 Install Instructions (VS Codium)
 
-1. Add **ghostbusters-theme** to **~/.vscode-oss/extensions/**
+1. Add **ghostbusters-theme** to Linux / Mac: **~/.vscode-oss/extensions/** or Windows: **%USERPROFILE%\.vscode-oss\extensions**
 2. Restart VS Codium.
 3. File -> Preferences -> Color Theme -> Ghostbusters
 
 🚨 Install Instructions (VS Code)
 
-1. Add **ghostbusters-theme** to **~/.vscode/extensions/**
+1. Add **ghostbusters-theme** to Linux / Mac: **~/.vscode/extensions/** or Windows: **%USERPROFILE%\.vscode\extensions**
 2. Restart VS Code.
 3. File -> Preferences -> Color Theme -> Ghostbusters
 
