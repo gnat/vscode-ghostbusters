@@ -1,0 +1,37 @@
+{
+    "name": "ghostbusters",
+    "displayName": "Ghostbusters",
+    "description": "Dark Color Theme for VS Code. Based on Monokai Dark, with less yellows, more minty greens. Just a changeset on top of the popular default theme, should look great on most languages. Similar to: Dracula, SynthWave 84, One Monokai 80s",
+    "icon": "icon.png",
+    "version": "0.4.0",
+    "publisher": "gnat",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gnat/ghostbusters-theme"
+    },
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Monokai",
+        "Space Theme",
+        "Dracula",
+        "Ghost",
+        "86",
+        "80s"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ghostbusters",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ghostbusters-color-theme.json"
+            }
+        ]
+    }
+}
