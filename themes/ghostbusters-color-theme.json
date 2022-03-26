@@ -519,7 +519,14 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#95F4B5"
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			// Docstring comments (Ex: Python).
+			"scope": "string.quoted.docstring",
+			"settings": {
+				"foreground": "#696969"
 			}
 		},
 		{
@@ -743,7 +750,7 @@
 		{
 			"scope": "text source",
 			"settings": {
-				"background": "#3D3D3D55"
+				"background": "#3D3D3D"
 			}
 		},
 		{
@@ -825,7 +832,7 @@
 			}
 		},
 		{
-			"scope": "markup.quote.markdown, markup.inline.raw.string, punctuation.definition.blockquote.markdown",
+			"scope": "markup.quote.markdown, markup.inline.raw.string",
 			"settings": {
 				"foreground": "#95F4B5"
 			}
