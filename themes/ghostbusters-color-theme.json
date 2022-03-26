@@ -4,7 +4,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
 		"editor.background": "#222222",
-		"editor.foreground": "#F5F5F5",
+		"editor.foreground": "#F0F0F0",
 		"editor.lineHighlightBackground": "#111111",
 		"editor.selectionBackground": "#F924A433",
 		"editorCursor.foreground": "#dddddd",
@@ -788,51 +788,52 @@
 		{
 			"scope": "markup.bold.markdown",
 			"settings": {
-				"foreground": "#F5F5F5",
+				"foreground": "#CCCCCC",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"foreground": "#F5F5F5",
+				"foreground": "#CCCCCC",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "punctuation.definition.bold.markdown, punctuation.definition.italic.markdown, punctuation.definition.raw.markdown",
 			"settings": {
-				"foreground": "#D3201F"
+				"foreground": "#CCCCCC",
+				"fontstyle": "bold"
 			}
 		},
 		{
 			"scope": "markup.list.unnumbered.markdown",
 			"settings": {
-				"foreground": "#F5F5F5"
+				"foreground": "#F0F0F0"
 			}
 		},
 		{
 			"scope": "markup.list.numbered.markdown",
 			"settings": {
-				"foreground": "#F5F5F5"
+				"foreground": "#F0F0F0"
 			}
 		},
 		{
 			"scope": "markup.raw.block.markdown, markup.raw.inline.markdown",
 			"settings": {
-				"foreground": "#F5F5F5"
+				"foreground": "#95F4B5"
 			}
 		},
 		{
-			"scope": "markup.quote.markdown, punctuation.definition.blockquote.markdown",
+			"scope": "markup.quote.markdown, markup.inline.raw.string, punctuation.definition.blockquote.markdown",
 			"settings": {
-				"foreground": "#F5F5F5"
+				"foreground": "#95F4B5"
 			}
 		},
 		{
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#F5F5F5"
+				"foreground": "#F0F0F0"
 			}
 		},
 		{
