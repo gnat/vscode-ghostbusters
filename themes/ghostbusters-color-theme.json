@@ -3,7 +3,7 @@
 	"type": "dark",
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
-		"editor.background": "#222222",
+		"editor.background": "#1D1D1D",
 		"editor.foreground": "#F0F0F0",
 		"editor.lineHighlightBackground": "#111111",
 		"editor.selectionBackground": "#F924A433",
@@ -576,28 +576,25 @@
 		{
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#95F4B5",
-				"fontStyle": "underline"
+				"foreground": "#F2F2F2"
 			}
 		},
 		{
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#95F4B5",
-				"fontStyle": "italic underline"
+				"foreground": "#F2F2F2"
 			}
 		},
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#95F4B5",
-				"fontStyle": ""
+				"foreground": "#95F4B5"
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FD971F",
+				"foreground": "#E89230",
 				"fontStyle": "italic"
 			}
 		},
@@ -737,7 +734,6 @@
 			"settings": {
 				"foreground": "#F8F8F0",
 				"background": "#F92672",
-				"fontStyle": ""
 			}
 		},
 		{
