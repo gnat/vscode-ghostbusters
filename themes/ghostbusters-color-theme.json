@@ -6,7 +6,7 @@
 		"editor.background": "#1D1D1D",
 		"editor.foreground": "#F0F0F0",
 		"editor.lineHighlightBackground": "#111111",
-		"editor.selectionBackground": "#95F4B540",
+		"editor.selectionBackground": "#95F4B530",
 		"editor.selectionHighlightBorder": "#95F4B5FF",
 		"editorCursor.foreground": "#dddddd",
 		"editorWhitespace.foreground": "#FFFFFF22",
