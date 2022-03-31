@@ -178,15 +178,16 @@
 		//"extensionButton.prominentHoverBackground": "#1177bb",
 		//"focusBorder": "#007fd4",
 		//"foreground": "#cccccc",
-		//"gitDecoration.addedResourceForeground": "#81b88b",
-		//"gitDecoration.conflictingResourceForeground": "#6c6cc4",
-		//"gitDecoration.deletedResourceForeground": "#c74e39",
-		//"gitDecoration.ignoredResourceForeground": "#8c8c8c",
-		//"gitDecoration.modifiedResourceForeground": "#e2c08d",
-		//"gitDecoration.stageDeletedResourceForeground": "#c74e39",
-		//"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
-		//"gitDecoration.submoduleResourceForeground": "#8db9e2",
-		//"gitDecoration.untrackedResourceForeground": "#73c991",
+		"gitDecoration.addedResourceForeground": "#95F4B5DD",
+		"gitDecoration.conflictingResourceForeground": "#F924A4DD",
+		"gitDecoration.deletedResourceForeground": "#AA0000DD",
+		"gitDecoration.ignoredResourceForeground": "#FFFFFFAA",
+		"gitDecoration.modifiedResourceForeground": "#95f4b5BB",
+		"gitDecoration.stageDeletedResourceForeground": "#AA0000BB",
+		"gitDecoration.stageModifiedResourceForeground": "#F924A4BB",
+		"gitDecoration.submoduleResourceForeground": "#8471ca",
+		"gitDecoration.untrackedResourceForeground": "#6a4dd3",
+		"gitDecoration.renamedResourceForeground": "#95F4B5DD",
 		//"gitlens.gutterBackgroundColor": "#ffffff13",
 		//"gitlens.gutterForegroundColor": "#bebebe",
 		//"gitlens.gutterUncommittedForegroundColor": "#00bcf299",
@@ -748,20 +749,12 @@
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#F8F8F0",
-				"background": "#F92672",
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
 				"foreground": "#F8F8F0",
-				"background": "#AC80FF"
-			}
-		},
-		{
-			"scope": "text source",
-			"settings": {
-				"background": "#3D3D3D"
 			}
 		},
 		{
