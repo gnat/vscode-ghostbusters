@@ -1,4 +1,4 @@
-# 👻 Ghostbusters • Dark Color Theme for VSCode / VSCodium
+# Ghostbusters 👻 Dark Color Theme for VSCode / VSCodium
 
 * Based on Monokai, with less yellows, more minty greens 🎄
 * Similar to: Dracula, SynthWave 84, One Monokai, 80s
