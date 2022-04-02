@@ -2,6 +2,7 @@
 
 * Based on Monokai, with less yellows, more minty greens 🎄
 * Similar to: Dracula, SynthWave 84, One Monokai, 80s
+* Font in screenshot is Ubuntu Mono.
 
 ![image](https://raw.githubusercontent.com/gnat/vscode-ghostbusters/main/screenshot.png)
 
