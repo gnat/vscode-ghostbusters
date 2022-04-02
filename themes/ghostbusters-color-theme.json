@@ -734,6 +734,12 @@
 			}
 		},
 		{
+			"scope": "meta.function-call.arguments",
+			"settings": {
+				"foreground": "#F0F0F0"
+			}
+		},
+		{
 			"scope": "punctuation.definition.arguments",
 			"settings": {
 				"foreground": "#F0F0F0"
