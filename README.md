@@ -10,6 +10,7 @@
 1. Download as zip (under the code button) or clone.
 2. Add **vscode-ghostbusters-main** folder to:
     * **~/.vscode-oss/extensions/** (Linux 🐧 / Mac 🍏)
+      * Flatpak? Use **~/.var/app/com.vscodium.codium/data/codium/extensions/** 
     * **%USERPROFILE%\.vscode-oss\extensions** (Windows 🖥️)
 3. Restart VS Codium.
 4. **File ➡️ Preferences ➡️ Color Theme ➡️ Ghostbusters**
